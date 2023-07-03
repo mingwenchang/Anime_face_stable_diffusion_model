@@ -1,19 +1,19 @@
-**What is stable diffusion model**  
+**What are stable diffusion models**  
 
 Stable diffusion models are state-of-art deep generative models in the machine learning field. They are capable of generating photo-realistic images from latent space and have been gaining significant attention in the past several years. Many famous generative AI websites [DALL-E 2](https://openai.com/dall-e-2), [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F), etc are based on the technique of stable diffusion models 
 
 
 **What is the goal of this notebook**  
   
-In this notebook, I tried to built an ***unconditional*** denoising diffusion model from scratch and used the model to generate anime faces.    
+In this notebook, I tried to build an ***unconditional*** denoising diffusion model from scratch and used the model to generate anime faces.    
 
 
 **Anime faces generated from latent space:**
   
-![image.png](attachment:image.png)
+![image.png](anime_faces.png)
 
   
-My codes and results are shown in below. 
+My codes and results are shown below. 
   
 
 **References**:  
