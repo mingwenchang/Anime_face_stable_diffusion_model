@@ -13,7 +13,7 @@ In this notebook, I tried to build an ***unconditional*** denoising diffusion mo
 ![image.png](anime_faces.png)
 
   
-My codes and results are shown below. 
+You can find my codes and results in `Anime_face_stable_diffusion_model.ipynb`
   
 
 **References**:  
